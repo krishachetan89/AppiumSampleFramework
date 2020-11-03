@@ -1,7 +1,6 @@
 ## Build generated
 build/
 DerivedData
-
 ## Various settings
 .DS_Store
 *.pbxuser
@@ -52,12 +51,6 @@ Pods/
 .idea
 [Tt]humbs.db
 *.DS_Store
-# Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
-
 # Files for the ART/Dalvik VM
 *.dex
 
